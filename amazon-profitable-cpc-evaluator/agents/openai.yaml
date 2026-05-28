@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon Profitable CPC Evaluator"
+  short_description: "Judge CPC using price, conversion, and TACOS logic instead of guesswork."

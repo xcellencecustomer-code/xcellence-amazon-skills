@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon TACOS Evaluator"
+  short_description: "Judge TACOS using real margin logic instead of generic benchmarks."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Amazon Conversion Rate Evaluator"
+  short_description: "Judge conversion with traffic, Buy Box, offer, and data-quality context."
