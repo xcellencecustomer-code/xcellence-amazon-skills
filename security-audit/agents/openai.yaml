@@ -1,0 +1,3 @@
+interface:
+  display_name: "Security Audit (Cloudflare)"
+  short_description: "Audit de sécurité défensif, piloté par la source, avec validation indépendante des constats."
