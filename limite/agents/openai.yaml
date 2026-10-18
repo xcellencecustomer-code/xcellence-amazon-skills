@@ -1,0 +1,3 @@
+interface:
+  display_name: "Limite"
+  short_description: "Envoie le travail facile de Claude Code sur Haiku pour ménager la limite d'usage."
